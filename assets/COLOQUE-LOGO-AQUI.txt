@@ -1,0 +1,27 @@
+📁 PASTA PARA LOGO
+
+INSTRUÇÕES:
+===========
+
+1. Coloque sua logo PGL nesta pasta
+2. Nome do arquivo: logo.png
+3. Formato: PNG com fundo transparente
+4. Tamanho recomendado: 200x60 pixels (ou proporção 10:3)
+
+EXEMPLO:
+========
+assets/
+└── logo.png  ← Seu arquivo deve ficar aqui
+
+IMPORTANTE:
+===========
+- O nome DEVE ser exatamente: logo.png
+- Use PNG para melhor qualidade
+- Fundo transparente é recomendado
+- Se usar JPG, renomeie no HTML e CSS
+
+═══════════════════════════════════════════════════════════════
+
+Após adicionar a logo, você pode deletar este arquivo.
+
+═══════════════════════════════════════════════════════════════

@@ -1,0 +1,48 @@
+═══════════════════════════════════════════════════════════════
+   INSTRUÇÕES RÁPIDAS - SITE EVENTO DUIMP
+   PGL Agente de Cargas - Com Microsoft Forms
+═══════════════════════════════════════════════════════════════
+
+📋 CHECKLIST RÁPIDO:
+
+□ 1. ADICIONAR LOGO
+   - Crie pasta: assets/
+   - Coloque sua logo como: logo.png
+
+□ 2. FORMULÁRIO JÁ ESTÁ PRONTO! ✅
+   - Microsoft Forms já integrado
+   - Totalmente responsivo
+   - Dados vão direto para seu Forms
+   - Nada para configurar!
+
+□ 3. TESTAR LOCALMENTE (2 min)
+   - Abra index.html no navegador
+   - Navegue pelo site
+   - Teste o formulário
+   - Verifique responsividade
+
+□ 4. PUBLICAR NO GITHUB (15 min)
+   a) Crie repositório no GitHub
+   b) Upload dos arquivos
+   c) Settings → Pages → Source: main
+   d) Seu site: https://SEU-USUARIO.github.io/NOME-REPO/
+
+═══════════════════════════════════════════════════════════════
+
+🔄 QUER TROCAR O FORMULÁRIO?
+
+1. Abra: index.html
+2. Procure: <iframe src="https://forms.office.com
+3. Substitua pela URL do seu novo formulário
+4. Mantenha os atributos de responsividade
+5. Salve e pronto!
+
+═══════════════════════════════════════════════════════════════
+
+📞 DÚVIDAS?
+Leia o README.md completo para instruções detalhadas
+
+✅ MUITO MAIS SIMPLES AGORA!
+Formulário Microsoft Forms = Zero configuração necessária
+
+═══════════════════════════════════════════════════════════════

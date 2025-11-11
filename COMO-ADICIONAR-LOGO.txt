@@ -1,0 +1,83 @@
+═══════════════════════════════════════════════════════════════
+   📸 COMO ADICIONAR SUA LOGO
+   Guia Rápido
+═══════════════════════════════════════════════════════════════
+
+✅ PASSO A PASSO:
+
+1️⃣ PREPARAR A LOGO:
+   - Formato: PNG com fundo transparente (recomendado)
+   - Tamanho: 200 x 60 pixels (proporção 10:3)
+   - Alternativa: JPG ou outros formatos funcionam também
+
+2️⃣ SALVAR NO LOCAL CORRETO:
+   - Abra a pasta: assets/
+   - Cole sua logo com o nome: logo.png
+   
+   📁 Estrutura:
+   duimp-evento/
+   └── assets/
+       └── logo.png  ← AQUI!
+
+3️⃣ IMPORTANTE:
+   ⚠️ O nome do arquivo DEVE ser exatamente: logo.png
+   ⚠️ Se usar outro formato (JPG, SVG), renomeie no código
+
+═══════════════════════════════════════════════════════════════
+
+🎨 TAMANHO DA LOGO JÁ ESTÁ CONFIGURADO:
+
+✅ Desktop/Tablet: 45px de altura
+✅ Mobile: 35px de altura
+✅ Footer: 50px de altura (logo branca)
+✅ Largura máxima: 200px
+✅ Proporção mantida automaticamente
+
+═══════════════════════════════════════════════════════════════
+
+🔧 AJUSTAR O TAMANHO (SE NECESSÁRIO):
+
+Se a logo ficar muito grande ou pequena, edite o arquivo:
+→ style.css
+
+Procure por:
+.logo {
+    height: 45px;  ← MUDE ESTE VALOR
+}
+
+Valores sugeridos:
+• 35px = Pequena
+• 40px = Média-pequena
+• 45px = Média (padrão)
+• 50px = Média-grande
+• 60px = Grande
+
+═══════════════════════════════════════════════════════════════
+
+❓ USANDO OUTRO FORMATO DE IMAGEM?
+
+Se sua logo é JPG, SVG ou outro:
+
+1. Renomeie para logo.png OU
+2. Edite os arquivos HTML:
+
+   Em index.html e duimp-evento-completo.html
+   Procure: src="assets/logo.png"
+   Troque: src="assets/logo.jpg"  (ou .svg, etc)
+
+═══════════════════════════════════════════════════════════════
+
+✅ APÓS ADICIONAR A LOGO:
+
+1. Abra o arquivo HTML no navegador
+2. A logo deve aparecer no header e footer
+3. Se não aparecer, verifique:
+   - Nome do arquivo está correto?
+   - Arquivo está na pasta assets/?
+   - Caminho no HTML está correto?
+
+═══════════════════════════════════════════════════════════════
+
+🎉 PRONTO! Sua logo está integrada ao site!
+
+═══════════════════════════════════════════════════════════════

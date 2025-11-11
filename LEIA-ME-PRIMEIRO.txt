@@ -1,0 +1,116 @@
+═══════════════════════════════════════════════════════════════
+   🚀 SITE EVENTO DUIMP - PGL AGENTE DE CARGAS
+   Versão Final com Microsoft Forms
+═══════════════════════════════════════════════════════════════
+
+📦 CONTEÚDO DO PACOTE:
+
+✅ index.html                  - Página principal
+✅ style.css                   - Estilos profissionais
+✅ script.js                   - JavaScript interativo
+✅ duimp-evento-completo.html  - Versão standalone (tudo em 1 arquivo)
+✅ assets/                     - Pasta para logo e imagens
+✅ README.md                   - Documentação completa
+✅ GUIA-COMPLETO.md           - Guia detalhado
+✅ INSTRUCOES-RAPIDAS.txt     - Checklist rápido
+✅ .gitignore                 - Configuração Git
+
+═══════════════════════════════════════════════════════════════
+
+⚡ INÍCIO RÁPIDO (3 PASSOS):
+
+1️⃣ ADICIONAR LOGO
+   - Abra pasta: assets/
+   - Coloque logo como: logo.png
+   - Tamanho ideal: 200x60px (PNG transparente)
+
+2️⃣ TESTAR LOCALMENTE
+   Escolha uma opção:
+   
+   A) Arquivo Standalone (FUNCIONA OFFLINE):
+      - Abra: duimp-evento-completo.html
+      - Duplo clique e abre no navegador
+      - ⚠️ Formulário pode não carregar (normal)
+   
+   B) Com Servidor Local (RECOMENDADO):
+      - Python: python -m http.server 8000
+      - Abra: http://localhost:8000/index.html
+      - ✅ Formulário funciona perfeitamente
+   
+   C) VS Code Live Server:
+      - Instale extensão "Live Server"
+      - Botão direito no index.html
+      - "Open with Live Server"
+      - ✅ Formulário funciona perfeitamente
+
+3️⃣ PUBLICAR NO GITHUB PAGES
+   - Crie repositório no GitHub
+   - Upload de TODOS os arquivos
+   - Settings → Pages → Ativar
+   - ✅ Site online + Formulário 100% funcional!
+
+═══════════════════════════════════════════════════════════════
+
+⚠️ IMPORTANTE SOBRE O FORMULÁRIO:
+
+O Microsoft Forms pode não carregar ao abrir o HTML diretamente
+(arquivo local file://) por questões de segurança do navegador.
+
+ISSO É NORMAL! ✅
+
+O formulário vai funcionar PERFEITAMENTE quando você:
+✅ Publicar no GitHub Pages
+✅ Usar servidor local (Python, VS Code, etc.)
+✅ Hospedar em qualquer servidor web
+
+═══════════════════════════════════════════════════════════════
+
+📁 ESTRUTURA DE ARQUIVOS:
+
+duimp-evento/
+├── index.html                    ← Página principal (separada)
+├── style.css                     ← Estilos CSS
+├── script.js                     ← JavaScript
+├── duimp-evento-completo.html    ← Versão standalone
+├── assets/
+│   └── logo.png                  ← COLOQUE SUA LOGO AQUI
+├── README.md
+├── GUIA-COMPLETO.md
+├── INSTRUCOES-RAPIDAS.txt
+├── LEIA-ME-PRIMEIRO.txt          ← Este arquivo
+└── .gitignore
+
+═══════════════════════════════════════════════════════════════
+
+💡 QUAL ARQUIVO USAR?
+
+📌 Para DESENVOLVIMENTO LOCAL:
+   → Use: duimp-evento-completo.html
+   → Vantagem: Tudo em um arquivo, fácil de testar
+
+📌 Para GITHUB PAGES (RECOMENDADO):
+   → Use: index.html + style.css + script.js
+   → Vantagem: Melhor performance, fácil de editar
+
+═══════════════════════════════════════════════════════════════
+
+🔄 TROCAR O FORMULÁRIO:
+
+1. Abra: index.html (ou duimp-evento-completo.html)
+2. Procure: <iframe width="100%" height="100%" src=
+3. Substitua a URL pelo seu novo formulário
+4. Salve e pronto!
+
+═══════════════════════════════════════════════════════════════
+
+📞 PRECISA DE AJUDA?
+
+📧 E-mail: contato@pgl.com.br
+📱 WhatsApp: (11) 97221-3753
+📖 Leia: README.md (instruções completas)
+
+═══════════════════════════════════════════════════════════════
+
+✨ BOA SORTE COM O EVENTO! ✨
+
+═══════════════════════════════════════════════════════════════
